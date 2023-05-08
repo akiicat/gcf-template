@@ -1,0 +1,2 @@
+google-cloud-firestore==2.7.3
+jsonpickle==3.0.1
